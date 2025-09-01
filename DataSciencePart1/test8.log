@@ -1,8 +1,0 @@
-INFO:root:log this line of execution
-INFO:root:This is my print
-INFO:root:This is my print
-ERROR:root:this is my error
-CRITICAL:root:this is my critical error
-INFO:root:this is my info logging
-ERROR:root:this is my error msg
-CRITICAL:root:this is my critical
